@@ -1,0 +1,3 @@
+name = "Fantasma"
+
+print(name)
