@@ -1,3 +1,5 @@
-name = "Fantasma"
 
-print(name)
+#!/usr/bin/env python3
+
+
+print("test")
